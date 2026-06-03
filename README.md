@@ -96,7 +96,7 @@ The dataset includes:
 
 The interactive Tableau dashboard can be viewed here:
 
-[Public Tableau Dashboard Link]
+![View dashboard](https://public.tableau.com/app/profile/anupama.shaji/viz/FINALSUBMISSION_PUBLICTRANSPORTPATRONAGEINPOST-COVIDVICTORIA_DASHBOARD/Dashboard1?publish=yes)
 
 ---
 
