@@ -73,7 +73,8 @@ The dataset includes:
 
 ### Patronage Recovery Trends
 
-*Dashboard screenshot to be added here.*
+![Patronage Recovery Trends](chart2.png)
+![Patronage Recovery Trends](chart3.png)
 
 ### Weekday vs Weekend Analysis
 
