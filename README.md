@@ -69,7 +69,7 @@ The dataset includes:
 
 ### Executive Dashboard
 
-
+![ Executive Dashboard](chart1.png)
 
 ### Patronage Recovery Trends
 
@@ -79,6 +79,8 @@ The dataset includes:
 ### Weekday vs Weekend Analysis
 ![Weekday vs Weekend Analysis](chart3.png)
 ![Weekday vs Weekend Analysis](chart4.png)
+
+![](chart6.png)
 
 ![](chart5.png)
 
