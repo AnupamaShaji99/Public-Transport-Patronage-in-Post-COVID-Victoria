@@ -69,7 +69,7 @@ The dataset includes:
 
 ### Executive Dashboard
 
-*Dashboard screenshot to be added here.*
+![ Executive Dashboard](chart1.png)
 
 ### Patronage Recovery Trends
 
