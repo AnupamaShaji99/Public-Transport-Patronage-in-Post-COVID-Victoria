@@ -67,7 +67,7 @@ The dataset includes:
 
 ## Dashboard Preview
 
-### Executive Dashboard
+
 
 ![ Executive Dashboard](chart1.png)
 
