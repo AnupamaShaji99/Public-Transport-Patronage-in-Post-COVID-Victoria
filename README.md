@@ -4,7 +4,7 @@
 
 This project analyses Victorian public transport patronage trends between 2018 and 2025 to understand how travel behaviour changed following the COVID-19 pandemic and assess the extent of demand recovery across the network.
 
-Using Tableau and SQL-based analysis, the project explores recovery patterns across transport modes, weekdays versus weekends, and different time periods to support evidence-based transport planning and service delivery decisions.
+Using Tableau and trend based analysis, the project explores recovery patterns across transport modes, weekdays versus weekends, and different time periods to support evidence-based transport planning and service delivery decisions.
 
 ---
 
